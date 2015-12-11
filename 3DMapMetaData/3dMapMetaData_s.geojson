@@ -1,0 +1,1405 @@
+{
+  "type": "bbt map annotations for south campus",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -53.39355466894705,
+          67.74275907083972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C11学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112897,
+          1146808
+        ],
+        "keywords": [
+          "C11学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -45.83496091933532,
+          73.40333766580962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C12学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113069,
+          1146418
+        ],
+        "keywords": [
+          "C12学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -27.29003904528788,
+          71.74643172230806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C13学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113491,
+          1146544
+        ],
+        "keywords": [
+          "C13学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -12.08496092106889,
+          70.17020068911407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C14学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113837,
+          1146654
+        ],
+        "keywords": [
+          "C14学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -36.34277341982289,
+          48.16608542766962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "T6西运动场",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113285,
+          1147674
+        ],
+        "keywords": [
+          "T6西运动场"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -37.04589841978676,
+          61.98026727055198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C10学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113269,
+          1147118
+        ],
+        "keywords": [
+          "C10学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -26.23535154534206,
+          58.35563036915752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "精通餐厅",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113515,
+          1147284
+        ],
+        "keywords": [
+          "精通餐厅"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -21.40136717059036,
+          64.96076632631579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C17学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113625,
+          1146966
+        ],
+        "keywords": [
+          "C17学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -17.70996092077997,
+          -25.95804465786045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "T1 学术大讲堂",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113709,
+          1149540
+        ],
+        "keywords": [
+          "T1 学术大讲堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -6.811523421339771,
+          -34.59704150156883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "B7 华南理工大学软件学院",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113957,
+          1149768
+        ],
+        "keywords": [
+          "B7 华南理工大学软件学院"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -26.14746092034657,
+          1.581033376605553E-8
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "A1教学楼",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113517,
+          1148928
+        ],
+        "keywords": [
+          "A1教学楼"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -34.93652341989511,
+          19.6425875479339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "体育馆",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113317,
+          1148472
+        ],
+        "keywords": [
+          "体育馆"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -11.90917967107794,
+          8.841651135981053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "A2教学楼",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113841,
+          1148726
+        ],
+        "keywords": [
+          "A2教学楼"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -14.10644529596507,
+          25.56226502746438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "华南理工大学游泳馆",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113791,
+          1148326
+        ],
+        "keywords": [
+          "华南理工大学游泳馆"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.735351546497809,
+          33.72433967336536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "网球场",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1114027,
+          1148112
+        ],
+        "keywords": [
+          "网球场"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -94.26269529184778,
+          -66.47820813570327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "B12 国家重点实验室",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1111967,
+          1150974
+        ],
+        "keywords": [
+          "B12 国家重点实验室"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -6.372070296362371,
+          -46.012223827799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "B5 现代服务业研究院",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113967,
+          1150110
+        ],
+        "keywords": [
+          "B5 现代服务业研究院"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -40.29785154461973,
+          -58.30948883042486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "B4 华南理工大学环境科学与工程学院",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113195,
+          1150570
+        ],
+        "keywords": [
+          "B4 华南理工大学环境科学与工程学院"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -54.36035154389739,
+          -51.28940589090367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "B6 华南理工大学生物科学与工程学院",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112875,
+          1150292
+        ],
+        "keywords": [
+          "B6 华南理工大学生物科学与工程学院"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -57.78808591872133,
+          -41.24477232944271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "B8 华南理工大学软件学院实训中心",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112797,
+          1149960
+        ],
+        "keywords": [
+          "B8 华南理工大学软件学院实训中心"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -99.71191404156787,
+          23.4834006676878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "D1教师公寓",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1111843,
+          1148378
+        ],
+        "keywords": [
+          "D1教师公寓"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -105.7763671662564,
+          29.91685224537681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C1学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1111705,
+          1148214
+        ],
+        "keywords": [
+          "C1学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -90.21972654205544,
+          37.30027529227618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C3学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112059,
+          1148012
+        ],
+        "keywords": [
+          "C3学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -96.63574216672588,
+          -12.6403382907809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "东运动场",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1111913,
+          1149218
+        ],
+        "keywords": [
+          "东运动场"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -45.48339841935336,
+          -13.75272464834706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "T3 图书馆南校区分馆",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113077,
+          1149244
+        ],
+        "keywords": [
+          "T3 图书馆南校区分馆"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -62.797851543464,
+          -12.72608428088329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "音乐厅",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112683,
+          1149220
+        ],
+        "keywords": [
+          "音乐厅"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -55.76660154382515,
+          36.7388841354362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "T8第一食堂",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112843,
+          1148028
+        ],
+        "keywords": [
+          "T8第一食堂",
+          "T8第1食堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -87.40722654219991,
+          24.76678453603763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "D2教师公寓",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112123,
+          1148346
+        ],
+        "keywords": [
+          "D2教师公寓"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -75.19042966782743,
+          28.76765911819681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "D3教师公寓",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112401,
+          1148244
+        ],
+        "keywords": [
+          "D3教师公寓"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -74.57519529285905,
+          37.99616269052247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "D4教师公寓",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112415,
+          1147992
+        ],
+        "keywords": [
+          "D4教师公寓"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -74.2236327928771,
+          0.7909905139221909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "篮球场",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112423,
+          1148910
+        ],
+        "keywords": [
+          "篮球场"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -81.34277341751141,
+          2.108898674934481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "篮球场",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112261,
+          1148880
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -74.57519529285905,
+          43.00464713756377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "D5教师公寓",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112415,
+          1147842
+        ],
+        "keywords": [
+          "D5教师公寓"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -85.0341796673218,
+          44.96479793968398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C5学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112177,
+          1147780
+        ],
+        "keywords": [
+          "C5学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -69.47753904312088,
+          49.95121991692364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C6学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112531,
+          1147612
+        ],
+        "keywords": [
+          "C6学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -69.47753904312088,
+          43.19716729223008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "大学书店/世博超市",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112531,
+          1147836
+        ],
+        "keywords": [
+          "大学书店/世博超市"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -74.39941404286806,
+          59.62332522918474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C8学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112419,
+          1147228
+        ],
+        "keywords": [
+          "C8学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -56.90917966876648,
+          60.10867046897801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C9学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1112817,
+          1147206
+        ],
+        "keywords": [
+          "C9学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -107.0068359161932,
+          41.04621682469779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C2学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1111677,
+          1147902
+        ],
+        "keywords": [
+          "C2学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -101.8212890414595,
+          51.83577752829153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C4学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1111795,
+          1147544
+        ],
+        "keywords": [
+          "C4学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -93.20800779190195,
+          58.99531119415084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C7学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1111991,
+          1147256
+        ],
+        "keywords": [
+          "C7学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -42.40722654451138,
+          -66.58321724915764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "B2 行政办公楼",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1113147,
+          1150980
+        ],
+        "keywords": [
+          "B2 行政办公楼"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          15.60058595250899,
+          66.75724984579465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C15学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1114467,
+          1146866
+        ],
+        "keywords": [
+          "C15学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          23.4228515771072,
+          58.21702495598179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "T12医疗保健中心",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1114645,
+          1147290
+        ],
+        "keywords": [
+          "T12医疗保健中心"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.471679703132007,
+          54.97761367782139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "T11第二食堂",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1114191,
+          1147424
+        ],
+        "keywords": [
+          "T11第二食堂",
+          "T11第2食堂"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.504882828181661,
+          62.99515845739302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "C16学生宿舍",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1114169,
+          1147068
+        ],
+        "keywords": [
+          "C16学生宿舍"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.4833984532854914,
+          18.39623015211871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "A3教学楼",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1114123,
+          1148502
+        ],
+        "keywords": [
+          "A3教学楼"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          21.92871095218394,
+          19.14516821019436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "A4教学楼",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1114611,
+          1148484
+        ],
+        "keywords": [
+          "A4教学楼"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          36.16699220145259,
+          15.19938606305486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "A5教学楼",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1114935,
+          1148578
+        ],
+        "keywords": [
+          "A5教学楼"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          104.5458984479402,
+          -7.798078515293095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "花场",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1116491,
+          1149106
+        ],
+        "keywords": [
+          "花场"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          25.62011720199433,
+          -11.95334937757083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "B10 华南理工大学经济与贸易学院",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1114695,
+          1149202
+        ],
+        "keywords": [
+          "B10 华南理工大学经济与贸易学院"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.3056640778837,
+          -22.75592066579931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "B9 华南理工大学思想政治学院",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1114301,
+          1149460
+        ],
+        "keywords": [
+          "B9 华南理工大学思想政治学院"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.065429703204229,
+          -53.27835300613752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "B3 华南理工大学计算机科学与工程学院",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1114159,
+          1150366
+        ],
+        "keywords": [
+          "B3 华南理工大学计算机科学与工程学院"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.426757827928868,
+          -62.83508900229596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "B1 华南理工大学国际教育学院",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1114281,
+          1150780
+        ],
+        "keywords": [
+          "B1 华南理工大学国际教育学院"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          89.07714844873479,
+          -5.353521339321765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "乐黄公祠",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1116139,
+          1149050
+        ],
+        "keywords": [
+          "乐黄公祠"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          52.33886720062191,
+          -5.441022287700217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "B11 华南理工大学设计学院",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1115303,
+          1149052
+        ],
+        "keywords": [
+          "B11 华南理工大学设计学院"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          80.28808594918627,
+          46.98025236413581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "T7国际学术中心",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1115939,
+          1147714
+        ],
+        "keywords": [
+          "T7国际学术中心"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          45.1318359509921,
+          61.27023279567329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "大学城第二冷站",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1115139,
+          1147152
+        ],
+        "keywords": [
+          "大学城第二冷站",
+          "大学城第2冷站"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          63.41308595005308,
+          49.26780455905112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "华南理工大学城中心酒店游泳池",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1115555,
+          1147636
+        ],
+        "keywords": [
+          "华南理工大学城中心酒店游泳池"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          69.74121094972803,
+          52.21433861601181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "网球场",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1115699,
+          1147530
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          148.4033203206875,
+          8.928487077829345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "华南理工大学燃料电池示范电站",
+        "marker-symbol": "embassy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "map_coordinates": [
+          1117489,
+          1148724
+        ],
+        "keywords": [
+          "华南理工大学燃料电池示范电站"
+        ]
+      }
+    }
+  ]
+}
